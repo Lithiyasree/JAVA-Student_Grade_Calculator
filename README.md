@@ -1,2 +1,1 @@
-# SkillUpgrade-Project-2
-JAVA - Student Grade Calculator 
+#JAVA - Student Grade Calculator 
